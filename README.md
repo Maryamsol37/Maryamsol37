@@ -29,11 +29,6 @@
 - Biomedical Sensors
 - Medical Device Development
 
----
-
-## 📊 GitHub Stats
-
-![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 
 ---
 
