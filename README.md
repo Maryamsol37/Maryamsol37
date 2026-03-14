@@ -1,4 +1,4 @@
-# Hi, I'm Maryam 👋
+# Maryam Mohamed Soliman Aitah
 
 🎓 Biomedical Data Engineering Student  
 🔬 Interested in Biomedical Signal Processing, Medical Devices, and Healthcare AI  
