@@ -1,12 +1,12 @@
 # Maryam Mohamed Soliman Aitah
 
-🎓 Biomedical Data Engineering Student  
-🔬 Interested in Biomedical Signal Processing, Medical Devices, and Healthcare AI  
-💻 Passionate about building software and hardware solutions for healthcare
+ Biomedical Data Engineering Student  
+ Interested in Biomedical Signal Processing, Medical Devices, and Healthcare AI  
+ Passionate about building software and hardware solutions for healthcare
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - Biomedical Engineering student
 - Interested in **Brain Computer Interfaces (BCI), Medical Signal Processing, and Clinical Engineering**
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 **Programming**
 - Python
@@ -32,7 +32,7 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Biomedical AI
 - Advanced Signal Processing
@@ -40,6 +40,6 @@
 
 ---
 
-## 📫 Contact
+##  Contact
 
 LinkedIn: https://www.linkedin.com/in/maryam-soliman-1858aa296/
