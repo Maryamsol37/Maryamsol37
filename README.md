@@ -1,3 +1,3 @@
-# Maryam Mohamed Soliman Aitah
+# Maryam Soliman Aitah
 
 
